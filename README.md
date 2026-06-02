@@ -1,6 +1,5 @@
 # NCAA Tournament Outcome Prediction System
 Developed an end-to-end machine learning pipeline to predict NCAA tournament game outcomes using over 20 years of historical basketball data.
-
 The project combines feature engineering, team rating systems, predictive modeling, probability calibration, and large-scale inference to generate win probabilities for every possible tournament matchup.
 
 ### Key Achievements
@@ -16,7 +15,6 @@ The project combines feature engineering, team rating systems, predictive modeli
 ## Business Objective
 
 Accurately estimating game outcomes is valuable for tournament forecasting, sports analytics, and probabilistic decision-making.
-
 This project focuses on predicting matchup win probabilities by combining historical performance, team quality metrics, schedule strength, and recent momentum into a unified predictive framework.
 
 
@@ -93,7 +91,7 @@ Implemented Leave-One-Season-Out Cross Validation, where each season is held out
 The model demonstrated stable performance across multiple seasons, indicating robustness to changing tournament dynamics and team compositions.
 
 
-## Technologies
+## Tech Stack
 
 ### Machine Learning
 
