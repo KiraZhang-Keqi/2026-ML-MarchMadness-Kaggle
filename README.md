@@ -119,15 +119,3 @@ The model demonstrated stable performance across multiple seasons, indicating ro
 * Data Pipeline Development
 * Exploratory Data Analysis
 * Model Interpretation
-
-## Repository Structure
-
-```text
-├── 2026NCAA Final Submission.ipynb
-├── 2026NCAA Experiments.ipynb
-├── 2026NCAA Predictions.csv
-└── README.md
-```
-
-```
-```
